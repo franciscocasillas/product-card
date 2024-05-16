@@ -1,0 +1,17 @@
+.productCard {
+	width: 200px;
+	height: 200px;
+	border: 1px black solid;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.productName {
+	font-size: 2em;
+}
+
+.productPrice {
+	font-size: 1.2em;
+}
